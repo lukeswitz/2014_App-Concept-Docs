@@ -5,12 +5,10 @@ Luke Switzer
 Integrated Product Development
 
 ====================================================
-Documentation:
 
-Android Wireframe Screens PDF 
-iOS Screens PDF
+- Android Wireframe Screens PDF 
+- iOS Screens PDF
+- Creative Briefs
+- Marketing Assets
 
-Proof Of Concept Walkthrough Video:
-
-- http://www.youtube.com/watch?v=3f3sTmdlyms
 ====================================================
