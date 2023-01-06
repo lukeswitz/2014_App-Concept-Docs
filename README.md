@@ -1,4 +1,4 @@
-Marketing & Prototyping Material Samples
+Marketing & Prototyping
 =========================
  Included Assets:
 - UI/UX Designs
